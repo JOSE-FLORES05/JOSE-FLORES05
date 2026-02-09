@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy José Flores  
 
-<!--
-**JOSE-FLORES05/JOSE-FLORES05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante | 🔧 Ingeniero en formación | 💻 Apasionado por la tecnología  
+Estudiante de Ingeniería de Sistemas Informáticos | Aprendiendo Git, GitHub y diferentes lenguajes de programación
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas  
+- **Lenguajes:** Python, C++, Java
+- **Herramientas:** Git, GitHub, VS Code, Linux Ubuntu  
+- **Aprendiendo Bases de datos:** MySQL, MariaDB (en aprendizaje) 
+- **Aprendiendo:** Git/GitHub ,Python, C++, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Mis estadísticas de GitHub  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JOSE-FLORES05&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSE-FLORES05&layout=compact&theme=radical)  
+
+---
+
+## 🎯 Mis objetivos Universitarios
+- [ ] Dominar Git y GitHub 
+- [ ] Aprender lenguajes de Programación
+- [ ] Aprender diferentes herramientas de desarrollo
+- [ ] Desarrollar mi portafolio de proyectos
+- [ ] Desarrolar mis habilidades como estudiante de Ingeniería
+
+---
+
+⭐ *"Primero resuelve el problema, después escribe el código" – John Johnson*  
